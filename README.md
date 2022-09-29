@@ -1,5 +1,5 @@
 # Movie Recommender System
-
+Recommender systems are an important class of machine learning algorithms that offer “relevant” suggestions to users.
 Movie Recommender System is a content based recommender system built using cosine similarity. Source of dataset: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata.
 
 Cosine similarity is a metric used to measure how similar two items are. Mathematically, it measures the cosine of the angle between two vectors projected in a multi-dimensional space. The output value ranges from 0–1.
